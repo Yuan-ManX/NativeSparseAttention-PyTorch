@@ -1,7 +1,7 @@
 # Native Sparse Attention PyTorch
 
 <p align="center">
-  <img src="Native Sparse Attention.png" alt="Native Sparse Attention" style="display:block; margin:auto; width:850px;" />
+  <img src="Native Sparse Attention.png" alt="Native Sparse Attention" style="display:block; margin:auto; width:650px;" />
 </p>
 
 PyTorch implementation of Native Sparse Attention.
